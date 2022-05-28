@@ -1,5 +1,5 @@
 # TikTacToe-Game
-Tic-tac-toe is a game in which two players take turns in drawing either an ' O' or an ' X' in one square of a grid consisting of nine squares.
+Tic-tac-toe is a game in which two players take turns in drawing either an ' O' or an ' X' in one square of a grid consisting of nine squares.<br/>
 The winner is the first player to get three of the same symbols in a row.
 ![image](https://user-images.githubusercontent.com/104670713/170813422-f9605ca5-ae1b-48b3-94b4-7124351f80a6.png)
 
