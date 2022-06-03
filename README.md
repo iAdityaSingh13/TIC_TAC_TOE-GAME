@@ -22,6 +22,3 @@ And a Grid
 
 ![image](https://user-images.githubusercontent.com/104670713/170813708-b23e89cf-a23d-4fde-889f-f9c708bcd025.png)
 
-
-
-How to play game
